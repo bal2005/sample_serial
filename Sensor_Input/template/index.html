@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Crop Suggestion from Sensor Data</title>
+    <link rel="stylesheet" href="static/style.css" />
+  </head>
+  <body>
+    <div class="hero">
+      <h1>Crop Suggestion from Sensor Data</h1>
+      <p>Sensor Data and Suggested Crops:</p>
+      <div class="content-container">
+        <!-- Left Section: Displaying Sensor Data -->
+        <div class="sensor-data">
+          <h2>Sensor Data</h2>
+          <ul>
+            <li><strong>N:</strong> {{ N }}</li>
+            <li><strong>P:</strong> {{ P }}</li>
+            <li><strong>K:</strong> {{ K }}</li>
+            <li><strong>SM:</strong> {{ SM }}</li>
+            <li><strong>PH:</strong> {{ PH }}</li>
+            <li><strong>Temperature:</strong> {{ temp }}</li>
+            <li><strong>Humidity:</strong> {{ humidity }}</li>
+            <li><strong>Rainfall:</strong> {{ rainfall }}</li>
+          </ul>
+        </div>
+
+        <!-- Right Section: Displaying Suggested Crops -->
+        <div class="crop-suggestions">
+          <h2>Suggested Crops</h2>
+          <div class="result">
+            <div class="card">
+              <img
+                src="{% if result_image1 %}{{ result_image1 }}{% endif %}"
+                alt="Crop Image 1"
+              />
+              <div class="card-content">
+                <h2 class="card-title">
+                  {% if result1 %} {{ result1 }} {% else %} No Crop Suggested {%
+                  endif %}
+                </h2>
+                <p class="card-description">
+                  {% if description1 %} {{ description1 }} {% else %} Please
+                  provide valid inputs to get a crop suggestion. {% endif %}
+                </p>
+              </div>
+            </div>
+            <div class="card">
+              <img
+                src="{% if result_image2 %}{{ result_image2 }}{% endif %}"
+                alt="Crop Image 2"
+              />
+              <div class="card-content">
+                <h2 class="card-title">
+                  {% if result2 %} {{ result2 }} {% else %} No Crop Suggested {%
+                  endif %}
+                </h2>
+                <p class="card-description">
+                  {% if description2 %} {{ description2 }} {% else %} Please
+                  provide valid inputs to get a crop suggestion. {% endif %}
+                </p>
+              </div>
+            </div>
+            <div class="card">
+              <img
+                src="{% if result_image3 %}{{ result_image3 }}{% endif %}"
+                alt="Crop Image 3"
+              />
+              <div class="card-content">
+                <h2 class="card-title">
+                  {% if result3 %} {{ result3 }} {% else %} No Crop Suggested {%
+                  endif %}
+                </h2>
+                <p class="card-description">
+                  {% if description3 %} {{ description3 }} {% else %} Please
+                  provide valid inputs to get a crop suggestion. {% endif %}
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

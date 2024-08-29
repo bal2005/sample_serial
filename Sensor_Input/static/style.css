@@ -1,0 +1,102 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+  
+  h1 {
+    color: #4a90e2;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  /* Hero Section */
+  .hero {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .hero p {
+    font-size: 1.1em;
+    color: #666;
+  }
+  
+  /* Content Container */
+  .content-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+  }
+  
+  /* Sensor Data Section */
+  .sensor-data {
+    width: 45%;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .sensor-data ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sensor-data li {
+    margin-bottom: 10px;
+    font-size: 1.2em;
+  }
+  
+  .sensor-data li strong {
+    color: #4a90e2;
+  }
+  
+  /* Crop Suggestions Section */
+  .crop-suggestions {
+    width: 45%;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .result {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .card {
+    width: calc(33.333% - 20px); /* Adjust card width to fit three in a row with spacing */
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .card-content {
+    padding: 15px;
+  }
+  
+  .card-title {
+    font-size: 1.2em;
+    color: #4a90e2;
+  }
+  
+  .card-description {
+    font-size: 1em;
+    color: #666;
+  }
+  

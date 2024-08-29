@@ -1,0 +1,384 @@
+Soil Moisture Level: 908
+Nitrogen: 7
+Phosphorus: 39
+Potassium: 48
+Soil Moisture Level: 875
+Nitrogen: 118
+Phosphorus: 135
+Potassium: 112
+Soil Moisture Level: 896
+Nitrogen: 44
+Phosphorus: 58
+Potassium: 183
+Soil Moisture Level: 897
+Nitrogen: 29
+Phosphorus: 50
+Potassium: 165
+Soil Moisture Level: 878
+Nitrogen: 112
+Phosphorus: 67
+Potassium: 202
+Soil Moisture Level: 906
+Nitrogen: 103
+Phosphorus: 57
+Potassium: 124
+Soil Moisture Level: 869
+Nitrogen: 60
+Phosphorus: 87
+Potassium: 178
+Soil Moisture Level: 901
+Nitrogen: 89
+Phosphorus: 14
+Potassium: 87
+Soil Moisture Level: 889
+Nitrogen: 120
+Phosphorus: 128
+Potassium: 204
+Soil Moisture Level: 888
+Nitrogen: 58
+Phosphorus: 121
+Potassium: 25
+Soil Moisture Level: 902
+Nitrogen: 137
+Phosphorus: 61
+Potassium: 47
+Soil Moisture Level: 870
+Nitrogen: 27
+Phosphorus: 40
+Potassium: 103
+Soil Moisture Level: 908
+Nitrogen: 119
+Phosphorus: 24
+Potassium: 179
+Soil Moisture Level: 866
+Nitrogen: 81
+Phosphorus: 42
+Potassium: 207
+Soil Moisture Level: 904
+Nitrogen: 133
+Phosphorus: 131
+Potassium: 80
+Soil Moisture Level: 884
+Nitrogen: 5
+Phosphorus: 43
+Potassium: 16
+Soil Moisture Level: 898
+Nitrogen: 34
+Phosphorus: 27
+Potassium: 11
+Soil Moisture Level: 886
+Nitrogen: 33
+Phosphorus: 138
+Potassium: 179
+Soil Moisture Level: 902
+Nitrogen: 28
+Phosphorus: 100
+Potassium: 94
+Soil Moisture Level: 875
+Nitrogen: 56
+Phosphorus: 80
+Potassium: 93
+Soil Moisture Level: 885
+Nitrogen: 82
+Phosphorus: 21
+Potassium: 199
+Soil Moisture Level: 869
+Nitrogen: 24
+Phosphorus: 76
+Potassium: 123
+Soil Moisture Level: 902
+Nitrogen: 77
+Phosphorus: 23
+Potassium: 173
+Soil Moisture Level: 920
+Nitrogen: 73
+Phosphorus: 18
+Potassium: 126
+Soil Moisture Level: 873
+Nitrogen: 75
+Phosphorus: 93
+Potassium: 150
+Soil Moisture Level: 885
+Nitrogen: 134
+Phosphorus: 73
+Potassium: 61
+Soil Moisture Level: 858
+Nitrogen: 125
+Phosphorus: 34
+Potassium: 200
+Soil Moisture Level: 730
+Nitrogen: 94
+Phosphorus: 14
+Potassium: 36
+Soil Moisture Level: 847
+Nitrogen: 57
+Phosphorus: 55
+Potassium: 205
+Soil Moisture Level: 949
+Nitrogen: 24
+Phosphorus: 86
+Potassium: 183
+Soil Moisture Level: 899
+Nitrogen: 88
+Phosphorus: 13
+Potassium: 160
+Soil Moisture Level: 855
+Nitrogen: 2
+Phosphorus: 137
+Potassium: 46
+Soil Moisture Level: 828
+Nitrogen: 76
+Phosphorus: 92
+Potassium: 38
+Soil Moisture Level: 743
+Nitrogen: 24
+Phosphorus: 26
+Potassium: 92
+Soil Moisture Level: 827
+Nitrogen: 11
+Phosphorus: 118
+Potassium: 52
+Soil Moisture Level: 833
+Nitrogen: 98
+Phosphorus: 87
+Potassium: 127
+Soil Moisture Level: 876
+Nitrogen: 54
+Phosphorus: 134
+Potassium: 64
+Soil Moisture Level: 852
+Nitrogen: 51
+Phosphorus: 10
+Potassium: 45
+Soil Moisture Level: 881
+Nitrogen: 115
+Phosphorus: 28
+Potassium: 102
+Soil Moisture Level: 860
+Nitrogen: 59
+Phosphorus: 13
+Potassium: 147
+Soil Moisture Level: 874
+Nitrogen: 20
+Phosphorus: 42
+Potassium: 89
+Soil Moisture Level: 857
+Nitrogen: 48
+Phosphorus: 120
+Potassium: 93
+Soil Moisture Level: 868
+Nitrogen: 13
+Phosphorus: 120
+Potassium: 111
+Soil Moisture Level: 873
+Nitrogen: 82
+Phosphorus: 57
+Potassium: 70
+Soil Moisture Level: 865
+Nitrogen: 122
+Phosphorus: 42
+Potassium: 107
+Soil Moisture Level: 872
+Nitrogen: 61
+Phosphorus: 95
+Potassium: 87
+Soil Moisture Level: 868
+Nitrogen: 111
+Phosphorus: 16
+Potassium: 95
+Soil Moisture Level: 872
+Nitrogen: 51
+Phosphorus: 118
+Potassium: 32
+Soil Moisture Level: 861
+Nitrogen: 136
+Phosphorus: 115
+Potassium: 60
+Soil Moisture Level: 899
+Nitrogen: 39
+Phosphorus: 130
+Potassium: 171
+Soil Moisture Level: 869
+Nitrogen: 92
+Phosphorus: 78
+Potassium: 105
+Soil Moisture Level: 880
+Nitrogen: 59
+Phosphorus: 134
+Potassium: 193
+Soil Moisture Level: 882
+Nitrogen: 29
+Phosphorus: 100
+Potassium: 185
+Soil Moisture Level: 861
+Nitrogen: 46
+Phosphorus: 113
+Potassium: 136
+Soil Moisture Level: 885
+Nitrogen: 113
+Phosphorus: 40
+Potassium: 18
+Soil Moisture Level: 863
+Nitrogen: 14
+Phosphorus: 65
+Potassium: 124
+Soil Moisture Level: 869
+Nitrogen: 106
+Phosphorus: 129
+Potassium: 86
+Soil Moisture Level: 889
+Nitrogen: 134
+Phosphorus: 48
+Potassium: 168
+Soil Moisture Level: 859
+Nitrogen: 4
+Phosphorus: 75
+Potassium: 5
+Soil Moisture Level: 876
+Nitrogen: 59
+Phosphorus: 93
+Potassium: 27
+Soil Moisture Level: 891
+Nitrogen: 125
+Phosphorus: 42
+Potassium: 62
+Soil Moisture Level: 890
+Nitrogen: 139
+Phosphorus: 52
+Potassium: 190
+Soil Moisture Level: 787
+Nitrogen: 16
+Phosphorus: 90
+Potassium: 38
+Soil Moisture Level: 955
+Nitrogen: 60
+Phosphorus: 109
+Potassium: 198
+Soil Moisture Level: 516
+Nitrogen: 135
+Phosphorus: 80
+Potassium: 125
+Soil Moisture Level: 968
+Nitrogen: 114
+Phosphorus: 57
+Potassium: 51
+Soil Moisture Level: 636
+Nitrogen: 139
+Phosphorus: 62
+Potassium: 49
+Soil Moisture Level: 852
+Nitrogen: 55
+Phosphorus: 13
+Potassium: 196
+Soil Moisture Level: 771
+Nitrogen: 32
+Phosphorus: 95
+Potassium: 101
+Soil Moisture Level: 723
+Nitrogen: 33
+Phosphorus: 19
+Potassium: 167
+Soil Moisture Level: 900
+Nitrogen: 133
+Phosphorus: 117
+Potassium: 40
+Soil Moisture Level: 556
+Nitrogen: 130
+Phosphorus: 22
+Potassium: 156
+Soil Moisture Level: 1012
+Nitrogen: 48
+Phosphorus: 12
+Potassium: 31
+Soil Moisture Level: 548
+Nitrogen: 85
+Phosphorus: 90
+Potassium: 68
+Soil Moisture Level: 1001
+Nitrogen: 95
+Phosphorus: 86
+Potassium: 192
+Soil Moisture Level: 642
+Nitrogen: 99
+Phosphorus: 9
+Potassium: 6
+Soil Moisture Level: 1012
+Nitrogen: 136
+Phosphorus: 111
+Potassium: 182
+Soil Moisture Level: 764
+Nitrogen: 120
+Phosphorus: 64
+Potassium: 84
+Soil Moisture Level: 742
+Nitrogen: 55
+Phosphorus: 74
+Potassium: 157
+Soil Moisture Level: 863
+Nitrogen: 95
+Phosphorus: 123
+Potassium: 124
+Soil Moisture Level: 586
+Nitrogen: 80
+Phosphorus: 60
+Potassium: 45
+Soil Moisture Level: 952
+Nitrogen: 46
+Phosphorus: 113
+Potassium: 42
+Soil Moisture Level: 575
+Nitrogen: 16
+Phosphorus: 63
+Potassium: 164
+Soil Moisture Level: 996
+Nitrogen: 51
+Phosphorus: 74
+Potassium: 208
+Soil Moisture Level: 549
+Nitrogen: 28
+Phosphorus: 127
+Potassium: 86
+Soil Moisture Level: 1009
+Nitrogen: 89
+Phosphorus: 23
+Potassium: 101
+Soil Moisture Level: 555
+Nitrogen: 91
+Phosphorus: 69
+Potassium: 29
+Soil Moisture Level: 1009
+Nitrogen: 35
+Phosphorus: 124
+Potassium: 165
+Soil Moisture Level: 687
+Nitrogen: 69
+Phosphorus: 63
+Potassium: 189
+Soil Moisture Level: 826
+Nitrogen: 60
+Phosphorus: 47
+Potassium: 105
+Soil Moisture Level: 777
+Nitrogen: 137
+Phosphorus: 80
+Potassium: 195
+Soil Moisture Level: 671
+Nitrogen: 56
+Phosphorus: 19
+Potassium: 117
+Soil Moisture Level: 934
+Nitrogen: 8
+Phosphorus: 29
+Potassium: 105
+Soil Moisture Level: 656
+Nitrogen: 110
+Phosphorus: 21
+Potassium: 102
+Soil Moisture Level: 991
+Nitrogen: 34
+Phosphorus: 47
+Potassium: 124
+Soil Moisture Level: 545
+Nitrogen: 1
+Phosphorus: 108
+Potassium: 40
